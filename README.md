@@ -32,7 +32,7 @@ The Yellow Pages Web Scraper is a Python script designed to extract business dat
 3. When prompted for the URL, input the Yellow Pages link in the following format:
 
    ```bash
-   [pip install -r requirements.txt](https://www.yellowpages.com.au/find/hairdressers/australia/page-)
+   https://www.yellowpages.com.au/find/hairdressers/australia/page-
    
 `Note: Modify the URL to match your desired search and location.`
 
