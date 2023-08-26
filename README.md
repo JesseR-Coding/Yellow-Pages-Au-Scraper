@@ -62,4 +62,4 @@ This project is licensed under the [MIT License](LICENSE).
 Created By [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
 ---
 
-Happy Scraping!
+Happy Scraping! 
