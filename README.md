@@ -9,7 +9,6 @@ The Yellow Pages Web Scraper is a Python script designed to extract business dat
 - [Output](#output)
 - [Contributing](#contributing)
 - [License](#license)
-- [Credit](#credit)
 
 ## Installation
 
@@ -59,7 +58,6 @@ Contributions are welcome! If you find any issues or want to add new features to
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Credit
 
 Created By [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
 ---
