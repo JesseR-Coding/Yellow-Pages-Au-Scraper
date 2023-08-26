@@ -1,4 +1,4 @@
-# Yellow Pages Australia - Web Scraper
+# Yellow Pages Australia - Web Scraper (ONLY WORKING YP AUSTRALIA SCRAPER)
 
 The Yellow Pages Web Scraper is a Python script designed to extract business data from the Yellow Pages Australia website. This tool utilizes web scraping techniques to gather valuable business information, which can then be used for various purposes such as analysis, research, or data enrichment.
 
@@ -37,7 +37,7 @@ The Yellow Pages Web Scraper is a Python script designed to extract business dat
    
 `Note: Modify the URL to match your desired search and location.`
 
-4. For the 'elements' input, ensure that you don't enter a value greater than 1000. The website restricts the view beyond this limit.
+4. For the 'elements' input, ensure that you don't enter a value greater than 1000. The website restricts the view beyond this limit. To get around this issue you can break up the scraping into batches and target different states that don't have more than 1000 results.
 
 ## Output
 
