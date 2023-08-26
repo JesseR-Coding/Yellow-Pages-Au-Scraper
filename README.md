@@ -61,7 +61,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credit
 
-Created By Jesse Radevski - [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
+Created By [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
 ---
 
 Happy Scraping!
