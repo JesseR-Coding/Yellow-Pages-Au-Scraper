@@ -40,10 +40,11 @@ The Yellow Pages Web Scraper is a Python script designed to extract business dat
 
 ## Output
 
-The scraped data will be saved in a CSV file named `final.csv` configuration. The CSV file will include the following columns:
+The scraped data will be saved in a CSV file named `final.csv`. The CSV file will include the following columns:
 
+- Yellow Pages Link
 - Business Name
-- Business Address
+- Business Email Address
 - Business Website (if available)
 
 Feel free to enhance or modify the scraper to extract additional data as needed.
