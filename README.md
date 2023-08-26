@@ -40,13 +40,15 @@ The Yellow Pages Web Scraper is a Python script designed to extract business dat
 
 ## Output
 
-The scraped data will be saved in a CSV file specified in the `final.csv` configuration. The CSV file will include the following columns:
+The scraped data will be saved in a CSV file named `final.csv` configuration. The CSV file will include the following columns:
 
 - Business Name
 - Business Address
 - Business Website (if available)
 
 Feel free to enhance or modify the scraper to extract additional data as needed.
+
+`Note: The scraper will create a "links.csv" file first which is part of the scraping process, this CSV file will automatically delete when the scraping is finished.`
 
 ## Contributing
 
@@ -58,7 +60,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Credit
 
-Created By Jesse Radevski | [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
+Created By Jesse Radevski - [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
 ---
 
 Happy Scraping!
