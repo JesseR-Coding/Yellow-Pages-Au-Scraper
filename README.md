@@ -59,7 +59,7 @@ Contributions are welcome! If you find any issues or want to add new features to
 This project is licensed under the [MIT License](LICENSE).
 
 
-Created By [https://github.com/JesseRadevski](https://github.com/JesseRadevski)
+Created By [https://github.com/JesseR-Coding/Yellow-Pages-Au-Scraper](https://github.com/JesseR-Coding/Yellow-Pages-Au-Scraper)
 ---
 
 Happy Scraping! 
